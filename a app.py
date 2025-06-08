@@ -2,7 +2,6 @@
 # STEP 2: Import all necessary libraries
 import streamlit as st
 import requests
-import sqlite3
 import json
 import datetime
 import time
